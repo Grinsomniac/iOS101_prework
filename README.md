@@ -3,11 +3,9 @@
 
 <div>
     <a href="https://www.loom.com/share/9eb30628c83f499e886e5ef371227be5">
-    </a>
-    <a href="https://www.loom.com/share/9eb30628c83f499e886e5ef371227be5">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9eb30628c83f499e886e5ef371227be5-2a8af5194cd1af36-full-play.gif">
     </a>
-  </div>
+</div>
 
 Submitted by: Jason John
 
